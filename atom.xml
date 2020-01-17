@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://discover.imgradeone.xyz</id>
     <title>Toolb 发现</title>
-    <updated>2020-01-17T06:43:54.168Z</updated>
+    <updated>2020-01-17T07:04:07.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://discover.imgradeone.xyz"/>
     <link rel="self" href="https://discover.imgradeone.xyz/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://discover.imgradeone.xyz/images/avatar.png</logo>
     <icon>https://discover.imgradeone.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, Toolb 发现</rights>
+    <entry>
+        <title type="html"><![CDATA[#活动 - 2020 拜年祭情报释出中]]></title>
+        <id>https://discover.imgradeone.xyz/post/2020bnj</id>
+        <link href="https://discover.imgradeone.xyz/post/2020bnj">
+        </link>
+        <updated>2020-01-17T06:48:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>作为 0202 年的比利比利特有年俗，2020 年 1 月 17 日，B 站正式开始了 2020 拜年祭的情报泄露！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>作为 0202 年的比利比利特有年俗，2020 年 1 月 17 日，B 站正式开始了 2020 拜年祭的情报泄露！</p>
+<!-- more -->
+<h1 id="传统艺能-加菜-or-偷吃">传统艺能 —— 加菜 or 偷吃？</h1>
+<p>继 9102 年的一直重置一直爽后，今年的拜年祭互动游戏则为烫火锅（<s>其实是黑暗料理哒</s>），和大家一起加菜，尽力解锁节目表。（<s>当然，偷吃的感觉也蛮爽的（XD）</s>）</p>
+<h1 id="第十届拜年祭了">第十届拜年祭了！！！</h1>
+<p>没想到今年是第十届拜年祭，作为 2017 年入站的编辑我表示对不起大家了（（（</p>
+<p>继去年 Toolb</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[welcome to Toolb Discover]]></title>
         <id>https://discover.imgradeone.xyz/post/welcome-to-toolb-discover</id>
