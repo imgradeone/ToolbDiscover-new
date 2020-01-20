@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://discover.imgradeone.xyz</id>
     <title>Toolb 发现</title>
-    <updated>2020-01-19T08:50:35.325Z</updated>
+    <updated>2020-01-20T13:22:41.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://discover.imgradeone.xyz"/>
     <link rel="self" href="https://discover.imgradeone.xyz/atom.xml"/>
@@ -35,16 +35,22 @@
 <blockquote>
 <p>保存的很好的祖传红糖是由太奶奶传给奶奶，奶奶再传给妈妈，到现在已经只剩小半罐了。大概是加入了什么秘方，尝起来和现在商场卖的红糖不太一样。</p>
 </blockquote>
+<h2 id="特别高级的北极贝">特别高级的北极贝</h2>
+<figure data-type="image" tabindex="4"><img src="https://i0.hdslb.com/bfs/activity-plat/static/20191227/17471814f06805c535397ca97454d2f6/t7~xUgOatA.png" alt="" loading="lazy"></figure>
+<p>1 月 20 日起加菜有几率获得</p>
+<blockquote>
+<p>从北大西洋冰冷深海新鲜捕捞上来，凌晨空运到货的北极贝，特地请技艺高超的新南方厨师切片，以保证可以品尝到最佳的口感。</p>
+</blockquote>
 <h2 id="待补充">待补充...</h2>
 <h2 id="拜年祭-20-亿项目最佳投资人-称号">拜年祭 20 亿项目最佳投资人 称号</h2>
-<figure data-type="image" tabindex="4"><img src="https://i0.hdslb.com/bfs/activity-plat/activity17583/images/game/thousandthanks.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://i0.hdslb.com/bfs/activity-plat/activity17583/images/game/thousandthanks.png" alt="" loading="lazy"></figure>
 <p>天机不可泄漏啊（（（</p>
 <p>真的要说的话，你就一直加菜，要加多少次嘛......XD</p>
 <h2 id="2020-年-特殊彩蛋">2020 年 特殊彩蛋</h2>
-<figure data-type="image" tabindex="5"><img src="https://i0.hdslb.com/bfs/activity-plat/activity17583/images/modal/bg-easteregg.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://i0.hdslb.com/bfs/activity-plat/activity17583/images/modal/bg-easteregg.png" alt="" loading="lazy"></figure>
 <p>内容是啥我就不写了，继续加油点吧（（（</p>
 <h1 id="额外好东西类">额外好东西类</h1>
-<figure data-type="image" tabindex="6"><img src="https://i0.hdslb.com/bfs/activity-plat/activity17583/images/cards/good-card-1.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://i0.hdslb.com/bfs/activity-plat/activity17583/images/cards/good-card-1.jpg" alt="" loading="lazy"></figure>
 <blockquote>
 <p>乐忠于挑战新口味的你，在众多食材中选择了吃下去会比较需要勇气的食材，倒进锅里后，火锅味道意外的变得极其鲜美了起来…</p>
 </blockquote>
@@ -65,10 +71,12 @@
 <li>国王仙人掌球</li>
 <li>海拉鲁米</li>
 <li>岩浆蘑菇</li>
+<li>野生西菌</li>
+<li>三角鸟的翅膀</li>
 <li><em>待补充...</em></li>
 </ul>
 <h1 id="额外坏东西类">额外坏东西类</h1>
-<figure data-type="image" tabindex="7"><img src="https://i0.hdslb.com/bfs/activity-plat/activity17583/images/cards/bad-card-3.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://i0.hdslb.com/bfs/activity-plat/activity17583/images/cards/bad-card-3.jpg" alt="" loading="lazy"></figure>
 <blockquote>
 <p>这个吃了会不会闹肚子呢？你端详着特地网购来的异世界食材。哎呀，不管了买都买了就加进去吧！火锅味道变得酸爽了起来...<br>
 （下文可能过于恶心）</p>
@@ -101,6 +109,7 @@
 <li>海熊的舌头</li>
 <li>龙牙花蜜</li>
 <li>波克布林的大肠</li>
+<li>风干木乃伊肉（？）</li>
 <li><em>待补充...</em></li>
 </ul>
 ]]></content>
