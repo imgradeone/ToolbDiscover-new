@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://discover.imgradeone.xyz</id>
     <title>Toolb 发现</title>
-    <updated>2020-01-23T05:10:49.586Z</updated>
+    <updated>2020-01-23T08:27:05.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://discover.imgradeone.xyz"/>
     <link rel="self" href="https://discover.imgradeone.xyz/atom.xml"/>
@@ -10,6 +10,58 @@
     <logo>https://discover.imgradeone.xyz/images/avatar.png</logo>
     <icon>https://discover.imgradeone.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, Toolb 发现</rights>
+    <entry>
+        <title type="html"><![CDATA[#活动 - 2020 拜年祭 1 月 24 日 19:30 开始直播！]]></title>
+        <id>https://discover.imgradeone.xyz/post/bnj2020-live</id>
+        <link href="https://discover.imgradeone.xyz/post/bnj2020-live">
+        </link>
+        <updated>2020-01-23T08:13:39.000Z</updated>
+        <content type="html"><![CDATA[<p>之前的小游戏大家玩得开心不？图鉴集齐了吗？<s>反正我偷吃得很开心（没有）</s></p>
+<p>反正都结束了，那么还是等着吧 awa（（（</p>
+<p><a href="https://www.bilibili.com/blackboard/xianxing2020bnj.html">需要预约拜年祭的点这里</a></p>
+<h1 id="拜年祭直播间-2233-号">拜年祭直播间 - 2233 号</h1>
+<p><a href="https://live.bilibili.com/2233">点此前往直播间</a></p>
+<h1 id="节目单">节目单</h1>
+<h2 id="p1-舒">P1 舒</h2>
+<ul>
+<li>十指芳缘</li>
+<li>Year in BILIBILI 2019</li>
+<li>除夕一串</li>
+<li>诸神的奥运</li>
+<li><strong>万古生香</strong></li>
+<li>彩虹节拍（今年 BDF 主题曲）</li>
+</ul>
+<h2 id="p2-鼠">P2 鼠</h2>
+<ul>
+<li>买买买</li>
+<li>你竟敢质疑独角兽</li>
+<li>年夜饭</li>
+<li><strong>夜的第七章</strong></li>
+</ul>
+<h2 id="p3-福">P3 福</h2>
+<ul>
+<li><strong>横竖撇点折</strong></li>
+<li>赛博朋克：2020</li>
+<li><strong>frozen clash - 冰原竞速战</strong></li>
+</ul>
+<h2 id="p4-服">P4 服</h2>
+<ul>
+<li>7 日</li>
+<li>回家</li>
+<li>星之回想</li>
+<li><strong>保卫国正中心</strong>（保卫幻电（确信））</li>
+<li>流年如歌</li>
+</ul>
+<h2 id="sp">SP</h2>
+<ul>
+<li><strong>铁心博弈</strong></li>
+</ul>
+<h2 id="单品和回放将于拜年祭直播结束后释出">单品和回放将于拜年祭直播结束后释出</h2>
+<p>单品释出后，Toolb 发现将及时跟进。</p>
+<h1 id="还是拜年祭直播间-2233-号">还是拜年祭直播间 - 2233 号</h1>
+<p><a href="https://live.bilibili.com/2233">点此前往直播间</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#精选发现 - SyncBot - 2019 哔哩哔哩年刊鬼畜榜]]></title>
         <id>https://discover.imgradeone.xyz/post/kichikurank2019</id>
