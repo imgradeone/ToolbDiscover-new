@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://discover.imgradeone.xyz</id>
     <title>Toolb 发现</title>
-    <updated>2020-01-23T08:27:05.983Z</updated>
+    <updated>2020-03-09T07:42:30.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://discover.imgradeone.xyz"/>
     <link rel="self" href="https://discover.imgradeone.xyz/atom.xml"/>
@@ -11,9 +11,51 @@
     <icon>https://discover.imgradeone.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, Toolb 发现</rights>
     <entry>
+        <title type="html"><![CDATA[劲爆，Toolb 1.0 Beta6 更新了！]]></title>
+        <id>https://discover.imgradeone.xyz/post/jing-bao-toolb-10-beta6-geng-xin-liao/</id>
+        <link href="https://discover.imgradeone.xyz/post/jing-bao-toolb-10-beta6-geng-xin-liao/">
+        </link>
+        <updated>2020-03-09T07:39:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>我们没有咕咕咕，只是发更新发得晚了点（</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我们没有咕咕咕，只是发更新发得晚了点（</p>
+<!-- more -->
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6783426"><label class="task-list-item-label" for="task-item-6783426"> 搜索界面强调色跟随主题色</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1682360"><label class="task-list-item-label" for="task-item-1682360"> ToolbTips 已扩充到 46 条！</label></li>
+</ul>
+<p>历史更新内容：</p>
+<p>——Beta3——</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-486860"><label class="task-list-item-label" for="task-item-486860"> 个人空间 Beta，现已加入 Toolb Lab 套餐</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1956011"><label class="task-list-item-label" for="task-item-1956011"> Tip 填充</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6667581"><label class="task-list-item-label" for="task-item-6667581"> UI 微调</label></li>
+</ul>
+<p>——Beta4——</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7911464"><label class="task-list-item-label" for="task-item-7911464"> 个人中心 Beta 认证帐号、年度大会员配色安排、UP 主置顶视频</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2965099"><label class="task-list-item-label" for="task-item-2965099"> 个人中心 Beta 性能优化，狂切帐号也不会卡了</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5262150"><label class="task-list-item-label" for="task-item-5262150"> 视频页 Alpha</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1347824"><label class="task-list-item-label" for="task-item-1347824"> 常见问题 List</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-773381"><label class="task-list-item-label" for="task-item-773381"> 疫情数据</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6235297"><label class="task-list-item-label" for="task-item-6235297"> 界面强调色优化（暗黑系主题暂不支持）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5375386"><label class="task-list-item-label" for="task-item-5375386"> 尝试修改了图标风格（类似 Material Icon 的 Two Tone 风格）</label></li>
+</ul>
+<p>——Beta5——</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7008703"><label class="task-list-item-label" for="task-item-7008703"> 大会员中心处加入快捷领券功能，年度大会员们记得每个月领 B 币券哦</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5814219"><label class="task-list-item-label" for="task-item-5814219"> 新的搜索界面</label></li>
+</ul>
+<h1 id="下载-beta-6">下载 Beta 6！！！</h1>
+<p>https://imgradeone.cowtransfer.com/s/6fa573a7a5c246</p>
+<p>或者</p>
+<p>https://github.com/imgradeone/ToolbReleases/releases/tag/v1.0-Beta6</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[#活动 - 2020 拜年祭 1 月 24 日 19:30 开始直播！]]></title>
-        <id>https://discover.imgradeone.xyz/post/bnj2020-live</id>
-        <link href="https://discover.imgradeone.xyz/post/bnj2020-live">
+        <id>https://discover.imgradeone.xyz/post/bnj2020-live/</id>
+        <link href="https://discover.imgradeone.xyz/post/bnj2020-live/">
         </link>
         <updated>2020-01-23T08:13:39.000Z</updated>
         <content type="html"><![CDATA[<p>之前的小游戏大家玩得开心不？图鉴集齐了吗？<s>反正我偷吃得很开心（没有）</s></p>
@@ -64,8 +106,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[#精选发现 - SyncBot - 2019 哔哩哔哩年刊鬼畜榜]]></title>
-        <id>https://discover.imgradeone.xyz/post/kichikurank2019</id>
-        <link href="https://discover.imgradeone.xyz/post/kichikurank2019">
+        <id>https://discover.imgradeone.xyz/post/kichikurank2019/</id>
+        <link href="https://discover.imgradeone.xyz/post/kichikurank2019/">
         </link>
         <updated>2020-01-22T06:36:59.000Z</updated>
         <summary type="html"><![CDATA[<p>一年一度的 B 站年刊鬼畜排行榜又来了，今年的鬼畜......emm......说实话......质量真的差了啊......（大悲😓）主要是这一次有些比较渣的作品也上去了，但还是有许多生草量高的作品。</p>
@@ -125,8 +167,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于拜年祭小游戏里的一些物品]]></title>
-        <id>https://discover.imgradeone.xyz/post/bnj-items</id>
-        <link href="https://discover.imgradeone.xyz/post/bnj-items">
+        <id>https://discover.imgradeone.xyz/post/bnj-items/</id>
+        <link href="https://discover.imgradeone.xyz/post/bnj-items/">
         </link>
         <updated>2020-01-19T08:03:55.000Z</updated>
         <content type="html"><![CDATA[<h1 id="图鉴收录">图鉴收录</h1>
@@ -254,8 +296,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[9102 循环 play 释出！]]></title>
-        <id>https://discover.imgradeone.xyz/post/9102-loop</id>
-        <link href="https://discover.imgradeone.xyz/post/9102-loop">
+        <id>https://discover.imgradeone.xyz/post/9102-loop/</id>
+        <link href="https://discover.imgradeone.xyz/post/9102-loop/">
         </link>
         <updated>2020-01-17T09:25:01.000Z</updated>
         <content type="html"><![CDATA[<p>2020 年到了，作为 Toolb 发现的编辑，我也在 B 站浪了 354 天。从最初听到鬼畜区 DSSQ、视频质量普遍低下，到现在整理完 9102 循环 play 收藏夹，B 站也稍微变了。</p>
@@ -303,8 +345,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[#活动 - 2020 拜年祭情报释出中]]></title>
-        <id>https://discover.imgradeone.xyz/post/2020bnj</id>
-        <link href="https://discover.imgradeone.xyz/post/2020bnj">
+        <id>https://discover.imgradeone.xyz/post/2020bnj/</id>
+        <link href="https://discover.imgradeone.xyz/post/2020bnj/">
         </link>
         <updated>2020-01-17T06:48:56.000Z</updated>
         <summary type="html"><![CDATA[<p>作为 0202 年的比利比利特有年俗，2020 年 1 月 17 日，B 站正式开始了 2020 拜年祭的情报泄露！</p>
@@ -324,8 +366,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[welcome to Toolb Discover]]></title>
-        <id>https://discover.imgradeone.xyz/post/welcome-to-toolb-discover</id>
-        <link href="https://discover.imgradeone.xyz/post/welcome-to-toolb-discover">
+        <id>https://discover.imgradeone.xyz/post/welcome-to-toolb-discover/</id>
+        <link href="https://discover.imgradeone.xyz/post/welcome-to-toolb-discover/">
         </link>
         <updated>2020-01-17T06:11:56.000Z</updated>
         <summary type="html"><![CDATA[<p>欢迎来到 Toolb 发现！</p>
