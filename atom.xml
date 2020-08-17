@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://discover.imgradeone.xyz</id>
     <title>Toolb 发现</title>
-    <updated>2020-08-17T07:29:25.893Z</updated>
+    <updated>2020-08-17T07:30:07.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://discover.imgradeone.xyz"/>
     <link rel="self" href="https://discover.imgradeone.xyz/atom.xml"/>
@@ -57,9 +57,9 @@
 <!-- more -->
 <h1 id="更新内容">更新内容</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4028703"><label class="task-list-item-label" for="task-item-4028703"> 自定义链接访问输入的链接可以不用带 http:// 或 https:// 了，软件将自动填充 https:// 前缀</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4482087"><label class="task-list-item-label" for="task-item-4482087"> Lab 项目 个人空间 Beta 的无头像规则提示优化</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6352702"><label class="task-list-item-label" for="task-item-6352702"> Lab 项目 视频 Alpha 对 av 号和 bv 号相关内容进行改进，现在可以同时查看稿件的 av 号和 bv 号了</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4249498"><label class="task-list-item-label" for="task-item-4249498"> 自定义链接访问输入的链接可以不用带 http:// 或 https:// 了，软件将自动填充 https:// 前缀</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-823284"><label class="task-list-item-label" for="task-item-823284"> Lab 项目 个人空间 Beta 的无头像规则提示优化</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2842526"><label class="task-list-item-label" for="task-item-2842526"> Lab 项目 视频 Alpha 对 av 号和 bv 号相关内容进行改进，现在可以同时查看稿件的 av 号和 bv 号了</label></li>
 </ul>
 <h1 id="下载">下载</h1>
 <p><a href="https://github.com/imgradeone/ToolbReleases/releases/download/v1.0-Beta7/Toolb.apk">GitHub 直链</a></p>
@@ -78,30 +78,30 @@
         <content type="html"><![CDATA[<p>我们没有咕咕咕，只是发更新发得晚了点（</p>
 <!-- more -->
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3930492"><label class="task-list-item-label" for="task-item-3930492"> 搜索界面强调色跟随主题色</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4249561"><label class="task-list-item-label" for="task-item-4249561"> ToolbTips 已扩充到 46 条！</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2786036"><label class="task-list-item-label" for="task-item-2786036"> 搜索界面强调色跟随主题色</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4556657"><label class="task-list-item-label" for="task-item-4556657"> ToolbTips 已扩充到 46 条！</label></li>
 </ul>
 <p>历史更新内容：</p>
 <p>——Beta3——</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2663942"><label class="task-list-item-label" for="task-item-2663942"> 个人空间 Beta，现已加入 Toolb Lab 套餐</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9883131"><label class="task-list-item-label" for="task-item-9883131"> Tip 填充</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5367710"><label class="task-list-item-label" for="task-item-5367710"> UI 微调</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9822039"><label class="task-list-item-label" for="task-item-9822039"> 个人空间 Beta，现已加入 Toolb Lab 套餐</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4318444"><label class="task-list-item-label" for="task-item-4318444"> Tip 填充</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9277810"><label class="task-list-item-label" for="task-item-9277810"> UI 微调</label></li>
 </ul>
 <p>——Beta4——</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8098796"><label class="task-list-item-label" for="task-item-8098796"> 个人中心 Beta 认证帐号、年度大会员配色安排、UP 主置顶视频</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9133869"><label class="task-list-item-label" for="task-item-9133869"> 个人中心 Beta 性能优化，狂切帐号也不会卡了</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3080268"><label class="task-list-item-label" for="task-item-3080268"> 视频页 Alpha</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7213992"><label class="task-list-item-label" for="task-item-7213992"> 常见问题 List</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-779021"><label class="task-list-item-label" for="task-item-779021"> 疫情数据</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7360446"><label class="task-list-item-label" for="task-item-7360446"> 界面强调色优化（暗黑系主题暂不支持）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-162242"><label class="task-list-item-label" for="task-item-162242"> 尝试修改了图标风格（类似 Material Icon 的 Two Tone 风格）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4646136"><label class="task-list-item-label" for="task-item-4646136"> 个人中心 Beta 认证帐号、年度大会员配色安排、UP 主置顶视频</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-866290"><label class="task-list-item-label" for="task-item-866290"> 个人中心 Beta 性能优化，狂切帐号也不会卡了</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4235557"><label class="task-list-item-label" for="task-item-4235557"> 视频页 Alpha</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7255030"><label class="task-list-item-label" for="task-item-7255030"> 常见问题 List</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4947175"><label class="task-list-item-label" for="task-item-4947175"> 疫情数据</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-567183"><label class="task-list-item-label" for="task-item-567183"> 界面强调色优化（暗黑系主题暂不支持）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9991691"><label class="task-list-item-label" for="task-item-9991691"> 尝试修改了图标风格（类似 Material Icon 的 Two Tone 风格）</label></li>
 </ul>
 <p>——Beta5——</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4639754"><label class="task-list-item-label" for="task-item-4639754"> 大会员中心处加入快捷领券功能，年度大会员们记得每个月领 B 币券哦</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6803514"><label class="task-list-item-label" for="task-item-6803514"> 新的搜索界面</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2245720"><label class="task-list-item-label" for="task-item-2245720"> 大会员中心处加入快捷领券功能，年度大会员们记得每个月领 B 币券哦</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9089658"><label class="task-list-item-label" for="task-item-9089658"> 新的搜索界面</label></li>
 </ul>
 <h1 id="下载-beta-6">下载 Beta 6！！！</h1>
 <p>https://imgradeone.cowtransfer.com/s/6fa573a7a5c246</p>
